@@ -20,3 +20,4 @@ managerlistatual = {
     carro: "sandero"
 
 }
+console. log(managerlistatual)
