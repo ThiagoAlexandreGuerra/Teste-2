@@ -4,5 +4,9 @@
 .fontepadrao{ 
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
-    font-weight: 100;
+    font-weight: 10px
 }
+.posicionamento{ 
+    text-align: center;
+}
+
