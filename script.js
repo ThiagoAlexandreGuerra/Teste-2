@@ -14,3 +14,9 @@ cidade: "belem do para",
 console. log(managerlist)
 const findname = names. find( names => names ==="teodoro")
 console. log(findname)
+managerlistatual = {
+    ...managerlist,
+    estado: "minas gerais",
+    carro: "sandero"
+
+}
