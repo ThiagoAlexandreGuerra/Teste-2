@@ -5,11 +5,12 @@ const managerlist = {
 casa: "benfica",
 nome: "thiago alexandre guerra",
 cidade: "belem do para",
-movies: [
+    movies: [
     "the godfather",
     "fast and furious",
     "freedom django"
-]
+    ]
 }
+console. log(managerlist)
 const findname = names. find( names => names ==="teodoro")
 console. log(findname)
