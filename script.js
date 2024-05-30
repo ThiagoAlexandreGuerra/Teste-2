@@ -11,7 +11,7 @@ cidade: "belem do para",
     "freedom django"
     ]
 }
-console. log(managerlist)
+
 const findname = names. find( names => names ==="teodoro")
 console. log(findname)
 managerlistatual = {
